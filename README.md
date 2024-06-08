@@ -1,1 +1,1 @@
-# heart_failure_predict
+# heart_failure_prediction
